@@ -1,0 +1,26 @@
+{
+  "name": "knex-drill-two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OptimooseCrime/knex-drill-two.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OptimooseCrime/knex-drill-two/issues"
+  },
+  "homepage": "https://github.com/OptimooseCrime/knex-drill-two#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "knex": "^0.14.6",
+    "pg": "^7.4.1"
+  }
+}
