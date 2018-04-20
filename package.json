@@ -19,8 +19,13 @@
   },
   "homepage": "https://github.com/OptimooseCrime/knex-drill-two#readme",
   "dependencies": {
+    "dotenv": "^5.0.1",
     "express": "^4.16.3",
+    "heroku": "^0.2.0",
+    "heroku-cli": "^6.16.16",
     "knex": "^0.14.6",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.3",
     "pg": "^7.4.1"
   }
 }
